@@ -1,0 +1,14 @@
+[
+    {
+    "id":1,
+    "name":"Avocado🥑",
+    "isOrganic":true,
+    "detail":"yo ta esto mitho huncha ki kurai chodim"
+    },
+    {
+        "id":2,
+        "name":"Orange 🟠",
+        "isOrganic":false,
+        "detail":"amma yesto mitho yetso mitho code bhai"
+        }
+]
